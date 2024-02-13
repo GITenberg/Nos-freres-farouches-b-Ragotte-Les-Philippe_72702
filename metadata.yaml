@@ -1,5 +1,8 @@
 _repo: Nos-freres-farouches-b-Ragotte-Les-Philippe_72702
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72702-h/images/cover.jpg
 creator:
   author:
     agent_name: Renard, Jules
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jules_Renard
     - https://fr.wikipedia.org/wiki/Jules_Renard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72702#Nos-freres-farouches-b-Ragotte-Les-Philippe
 edition_note: 5e édition.
 gutenberg_issued: '2024-01-13'
 gutenberg_type: Text
