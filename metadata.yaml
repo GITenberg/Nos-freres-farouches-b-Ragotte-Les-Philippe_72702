@@ -1,0 +1,37 @@
+_repo: Nos-freres-farouches-b-Ragotte-Les-Philippe_72702
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Renard, Jules
+    alias: Renard, Pierre Jules
+    birthdate: 1864
+    deathdate: 1910
+    gutenberg_agent_id: '1507'
+    url: http://www.gutenberg.org/2009/agents/1507
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jules_Renard
+    - https://fr.wikipedia.org/wiki/Jules_Renard
+description: ''
+edition_note: 5e édition.
+gutenberg_issued: '2024-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72702'
+language: fr
+pgterms:marc904: https://archive.org/details/nosfrresfarouc00rena
+pgterms:marc905: 20221219145033renard
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aParis :$bGallimard, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Nos frères farouches : $b Ragotte, Les Philippe'
+url: http://www.gutenberg.org/ebooks/72702
